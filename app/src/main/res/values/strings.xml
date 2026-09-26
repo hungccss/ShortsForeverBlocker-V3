@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shorts Forever Blocker</string>
+    <string name="accessibility_label">Chặn YouTube Shorts</string>
+    <string name="accessibility_desc">Tự động thoát khi YouTube Shorts được mở. Dịch vụ chỉ theo dõi ứng dụng YouTube.</string>
+</resources>
